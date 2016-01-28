@@ -1,0 +1,14 @@
+{
+  "development": {
+    "host": "localhost",
+    "user": "testuser",
+    "password": "password",
+    "database": "mysqldemo_dev"
+  },
+  "production": {
+    "host": "localhost",
+    "user": "testuser",
+    "password": "password",
+    "database": "mysqldemo"
+  }
+}
